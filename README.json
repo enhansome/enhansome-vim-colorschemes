@@ -1,0 +1,112 @@
+{
+  "items": [
+    {
+      "description": "Use your favorite package-manager to install, and enjoy!",
+      "items": [],
+      "title": "Installation"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Color Schemes"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "List of colorschemes with barely any colors",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-01-25T07:31:45Z",
+            "owner": "mcchrish",
+            "repo": "vim-no-color-collections",
+            "stars": 1057
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "320+ color themes for VIM",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2018-10-24T18:42:43Z",
+            "owner": "rainglow",
+            "repo": "vim",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Syntax highlighting for hackers",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim Script",
+            "last_commit": "2024-06-08T15:54:08Z",
+            "owner": "chriskempson",
+            "repo": "base16-vim",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Some emacs themes ported to Vim",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Vim script",
+            "last_commit": "2019-08-23T05:26:44Z",
+            "owner": "mswift42",
+            "repo": "vim-themes",
+            "stars": 161
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "VimL",
+            "last_commit": "2015-11-07T23:37:32Z",
+            "owner": "mkarmona",
+            "repo": "colorsbox",
+            "stars": 60
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "",
+          "description": "Assemble your own Vim theme (choose base hue + saturation curve)",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Vim Script",
+            "last_commit": "2022-12-21T16:01:53Z",
+            "owner": "haystackandroid",
+            "repo": "vimspectr",
+            "stars": 6
+          }
+        }
+      ],
+      "title": "Other Collections"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:34:54.131Z",
+    "original_repository": "rafi/awesome-vim-colorschemes",
+    "original_repository_sha": "ae5e02298c8de6a5aa98fe4d29a21874cfcc3619",
+    "enhanced_repository": "enhansome/enhansome-vim-colorschemes",
+    "enhanced_repository_description": null,
+    "title": "Awesome Vim Color Schemes with stars"
+  }
+}
