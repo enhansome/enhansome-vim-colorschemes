@@ -24,7 +24,7 @@
             "last_commit": "2026-01-25T07:31:45Z",
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1058
+            "stars": 1059
           }
         },
         {
@@ -102,7 +102,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T19:04:28.794Z",
+    "last_updated": "2026-08-18T19:03:13.312Z",
     "original_repository": "rafi/awesome-vim-colorschemes",
     "original_repository_sha": "ae5e02298c8de6a5aa98fe4d29a21874cfcc3619",
     "enhanced_repository": "enhansome/enhansome-vim-colorschemes",
