@@ -1,17 +1,7 @@
 {
   "items": [
     {
-      "description": "Use your favorite package-manager to install, and enjoy!",
-      "items": [],
-      "title": "Installation"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Color Schemes"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -20,6 +10,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 197876622,
             "language": null,
             "last_commit": "2026-01-25T07:31:45Z",
             "owner": "mcchrish",
@@ -34,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 115221876,
             "language": "Vim script",
             "last_commit": "2018-10-24T18:42:43Z",
             "owner": "rainglow",
@@ -48,11 +40,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5619458,
             "language": "Vim Script",
             "last_commit": "2024-06-08T15:54:08Z",
             "owner": "chriskempson",
             "repo": "base16-vim",
-            "stars": 169
+            "stars": 170
           }
         },
         {
@@ -62,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 50354847,
             "language": "Vim script",
             "last_commit": "2019-08-23T05:26:44Z",
             "owner": "mswift42",
@@ -76,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45502053,
             "language": "VimL",
             "last_commit": "2015-11-07T23:37:32Z",
             "owner": "mkarmona",
@@ -90,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 580834659,
             "language": "Vim Script",
             "last_commit": "2022-12-21T16:01:53Z",
             "owner": "haystackandroid",
@@ -102,8 +98,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T19:03:13.312Z",
+    "last_updated": "2026-08-19T12:56:36.387Z",
     "original_repository": "rafi/awesome-vim-colorschemes",
+    "original_repository_id": 40412833,
     "original_repository_sha": "ae5e02298c8de6a5aa98fe4d29a21874cfcc3619",
     "enhanced_repository": "enhansome/enhansome-vim-colorschemes",
     "enhanced_repository_description": null,
