@@ -199,7 +199,7 @@ Use your favorite package-manager to install, and enjoy!
 
 ## Other Collections
 
-* [`mcchrish/vim-no-color-collections`](https://github.com/mcchrish/vim-no-color-collections) ⭐ 1,059 | 🐛 1 | 📅 2026-01-25 - List of colorschemes with barely any colors
+* [`mcchrish/vim-no-color-collections`](https://github.com/mcchrish/vim-no-color-collections) ⭐ 1,061 | 🐛 1 | 📅 2026-01-25 - List of colorschemes with barely any colors
 * [`rainglow/vim`](https://github.com/rainglow/vim) ⭐ 483 | 🐛 3 | 🌐 Vim script | 📅 2018-10-24 - 320+ color themes for VIM
 * [`chriskempson/base16-vim`](https://github.com/chriskempson/base16-vim) ⭐ 170 | 🐛 53 | 🌐 Vim Script | 📅 2024-06-08 - Syntax highlighting for hackers
 * [`mswift42/vim-themes`](https://github.com/mswift42/vim-themes) ⭐ 161 | 🐛 3 | 🌐 Vim script | 📅 2019-08-23 - Some emacs themes ported to Vim
@@ -208,4 +208,4 @@ Use your favorite package-manager to install, and enjoy!
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-20._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-21._
