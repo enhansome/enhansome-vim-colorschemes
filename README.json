@@ -5,7 +5,7 @@
       "items": [
         {
           "node_type": "item",
-          "title": "",
+          "title": "vim-no-color-collections",
           "description": "List of colorschemes with barely any colors",
           "children": [],
           "repo_info": {
@@ -20,7 +20,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "vim",
           "description": "320+ color themes for VIM",
           "children": [],
           "repo_info": {
@@ -35,7 +35,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "base16-vim",
           "description": "Syntax highlighting for hackers",
           "children": [],
           "repo_info": {
@@ -50,7 +50,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "vim-themes",
           "description": "Some emacs themes ported to Vim",
           "children": [],
           "repo_info": {
@@ -65,7 +65,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "colorsbox",
           "description": null,
           "children": [],
           "repo_info": {
@@ -80,7 +80,7 @@
         },
         {
           "node_type": "item",
-          "title": "",
+          "title": "vimspectr",
           "description": "Assemble your own Vim theme (choose base hue + saturation curve)",
           "children": [],
           "repo_info": {
@@ -98,7 +98,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T18:53:13.220Z",
+    "last_updated": "2026-08-24T14:01:53.425Z",
     "original_repository": "rafi/awesome-vim-colorschemes",
     "original_repository_id": 40412833,
     "original_repository_sha": "ae5e02298c8de6a5aa98fe4d29a21874cfcc3619",
