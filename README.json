@@ -98,9 +98,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T20:15:44.987Z",
-    "original_repository": "rafi/awesome-vim-colorschemes",
-    "original_repository_id": 40412833,
+    "last_updated": "2026-08-27T12:10:39.965Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 40412833,
+      "language": "Vim Script",
+      "last_commit": "2024-05-28T11:02:27Z",
+      "owner": "rafi",
+      "repo": "awesome-vim-colorschemes",
+      "stars": 2914
+    },
     "original_repository_sha": "ae5e02298c8de6a5aa98fe4d29a21874cfcc3619",
     "enhanced_repository": "enhansome/enhansome-vim-colorschemes",
     "enhanced_repository_description": null,
