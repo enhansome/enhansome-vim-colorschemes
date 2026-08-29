@@ -15,8 +15,9 @@
             "last_commit": "2026-01-25T07:31:45Z",
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1061
-          }
+            "stars": 1060
+          },
+          "first_seen": "2026-08-29T01:48:04.336Z"
         },
         {
           "node_type": "item",
@@ -30,8 +31,9 @@
             "last_commit": "2018-10-24T18:42:43Z",
             "owner": "rainglow",
             "repo": "vim",
-            "stars": 483
-          }
+            "stars": 486
+          },
+          "first_seen": "2026-08-29T01:48:04.336Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "chriskempson",
             "repo": "base16-vim",
             "stars": 171
-          }
+          },
+          "first_seen": "2026-08-29T01:48:04.336Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "mswift42",
             "repo": "vim-themes",
             "stars": 161
-          }
+          },
+          "first_seen": "2026-08-29T01:48:04.336Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "mkarmona",
             "repo": "colorsbox",
             "stars": 60
-          }
+          },
+          "first_seen": "2026-08-29T01:48:04.336Z"
         },
         {
           "node_type": "item",
@@ -91,14 +96,15 @@
             "owner": "haystackandroid",
             "repo": "vimspectr",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:48:04.336Z"
         }
       ],
       "title": "Other Collections"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T02:13:09.287Z",
+    "last_updated": "2026-08-29T01:48:04.336Z",
     "original_repository_info": {
       "archived": false,
       "id": 40412833,
