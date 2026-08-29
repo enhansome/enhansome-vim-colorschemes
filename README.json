@@ -10,12 +10,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collection of Vim themes with barely any colors",
+            "homepage": null,
             "id": 197876622,
             "language": null,
+            "license": null,
             "last_commit": "2026-01-25T07:31:45Z",
+            "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1060
+            "stars": 1060,
+            "topics": [
+              "color-scheme",
+              "dark-theme",
+              "light-theme",
+              "low-contrast",
+              "monochrome",
+              "monochrome-theme",
+              "neovim-colors",
+              "neovim-colorscheme",
+              "syntax-highlighting",
+              "vim",
+              "vim-colors",
+              "vim-colorscheme",
+              "vim-colorschemes",
+              "vim-monochrome",
+              "vim-themes"
+            ]
           },
           "first_seen": "2026-08-29T01:48:04.336Z"
         },
@@ -26,12 +47,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "320+ color themes for VIM.",
+            "homepage": "https://rainglow.io",
             "id": 115221876,
             "language": "Vim script",
+            "license": "MIT",
             "last_commit": "2018-10-24T18:42:43Z",
+            "open_issues": 3,
             "owner": "rainglow",
             "repo": "vim",
-            "stars": 486
+            "stars": 486,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:04.336Z"
         },
@@ -42,12 +68,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Base16 for Vim",
+            "homepage": "https://github.com/chriskempson/base16",
             "id": 5619458,
             "language": "Vim Script",
+            "license": "NOASSERTION",
             "last_commit": "2024-06-08T15:54:08Z",
+            "open_issues": 53,
             "owner": "chriskempson",
             "repo": "base16-vim",
-            "stars": 171
+            "stars": 171,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:04.336Z"
         },
@@ -58,12 +89,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "some emacs themes ported to vim.",
+            "homepage": null,
             "id": 50354847,
             "language": "Vim script",
+            "license": null,
             "last_commit": "2019-08-23T05:26:44Z",
+            "open_issues": 3,
             "owner": "mswift42",
             "repo": "vim-themes",
-            "stars": 161
+            "stars": 161,
+            "topics": [
+              "theme",
+              "vim",
+              "vim-theme"
+            ]
           },
           "first_seen": "2026-08-29T01:48:04.336Z"
         },
@@ -74,12 +114,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": null,
+            "homepage": null,
             "id": 45502053,
             "language": "VimL",
+            "license": null,
             "last_commit": "2015-11-07T23:37:32Z",
+            "open_issues": 0,
             "owner": "mkarmona",
             "repo": "colorsbox",
-            "stars": 60
+            "stars": 60,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:04.336Z"
         },
@@ -90,12 +135,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "vim themes across the spectrum",
+            "homepage": null,
             "id": 580834659,
             "language": "Vim Script",
+            "license": "GPL-3.0",
             "last_commit": "2022-12-21T16:01:53Z",
+            "open_issues": 0,
             "owner": "haystackandroid",
             "repo": "vimspectr",
-            "stars": 6
+            "stars": 6,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:48:04.336Z"
         }
@@ -104,15 +154,31 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:48:04.336Z",
+    "last_updated": "2026-08-29T04:21:28.870Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collection of awesome color schemes for Neo/vim, merged for quick use.",
+      "homepage": null,
       "id": 40412833,
       "language": "Vim Script",
+      "license": null,
       "last_commit": "2024-05-28T11:02:27Z",
+      "open_issues": 19,
       "owner": "rafi",
       "repo": "awesome-vim-colorschemes",
-      "stars": 2914
+      "stars": 2914,
+      "topics": [
+        "collection",
+        "color-scheme",
+        "colors",
+        "gvim",
+        "macvim",
+        "neovim",
+        "nvim",
+        "plugins",
+        "themes",
+        "vim"
+      ]
     },
     "original_repository_sha": "ae5e02298c8de6a5aa98fe4d29a21874cfcc3619",
     "enhanced_repository": "enhansome/enhansome-vim-colorschemes",
