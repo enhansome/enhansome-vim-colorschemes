@@ -56,7 +56,7 @@
             "open_issues": 3,
             "owner": "rainglow",
             "repo": "vim",
-            "stars": 490,
+            "stars": 491,
             "topics": []
           },
           "first_seen": "2026-08-29T01:48:04.336Z"
@@ -154,7 +154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T21:08:57.768Z",
+    "last_updated": "2026-09-02T21:08:56.827Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome color schemes for Neo/vim, merged for quick use.",
