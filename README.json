@@ -110,7 +110,7 @@
         {
           "node_type": "item",
           "title": "colorsbox",
-          "description": null,
+          "description": "mkarmona/colorsbox",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -154,7 +154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T22:22:24.428Z",
+    "last_updated": "2026-10-03T05:13:33.044Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome color schemes for Neo/vim, merged for quick use.",
