@@ -19,7 +19,7 @@
             "open_issues": 1,
             "owner": "mcchrish",
             "repo": "vim-no-color-collections",
-            "stars": 1071,
+            "stars": 1072,
             "topics": [
               "color-scheme",
               "dark-theme",
@@ -154,7 +154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-13T22:56:17.414Z",
+    "last_updated": "2026-10-14T21:49:06.498Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome color schemes for Neo/vim, merged for quick use.",
