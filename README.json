@@ -154,7 +154,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T22:46:31.861Z",
+    "last_updated": "2026-10-27T22:26:28.979Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collection of awesome color schemes for Neo/vim, merged for quick use.",
@@ -166,7 +166,7 @@
       "open_issues": 19,
       "owner": "rafi",
       "repo": "awesome-vim-colorschemes",
-      "stars": 2912,
+      "stars": 2911,
       "topics": [
         "collection",
         "color-scheme",
